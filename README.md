@@ -14,4 +14,4 @@ A simple AI web app to predict breast cancer risk using machine learning and giv
 - Hosted using Streamlit Cloud
 
 ## Project by
-Krushna Taur
+Team Vibers
